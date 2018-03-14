@@ -1,0 +1,49 @@
+CS330 Reading List
+This is in addition to the contents available on course home
+Please attempt the exercises in the respective chapters listed below
+
+• OS principles 7th edition
+– Chapter 2 except Section 2.8
+– Chapter 3
+– Chapter 4
+– Chapter 5
+– Chapter 6 except Section 6.9
+– Chapter 8 except Sections 8.5.2, 8.5.3, 8.6, 8.7
+– Chapter 9 except Sections 9.5, 9.6, 9.7, 9.8, 9.9, 9.10
+• OS concepts 9th edition
+– Chapter 2 except Section 2.8
+– Chapter 3
+– Chapter 4
+– Chapter 5 except Section 5.10
+– Chapter 6
+– Chapter 8 except Sections 8.4, 8.7, 8.8
+– Chapter 9 except Sections 9.5, 9.6, 9.7, 9.8, 9.9, 9.10
+• OS concepts 8th edition
+– Chapter 2 except Sections 2.8, 2.9
+– Chapter 3
+– Chapter 4
+– Chapter 5
+– Chapter 6 except Section 6.9
+– Chapter 8 except Sections 8.6, 8.7
+– Chapter 9 except Sections 9.5, 9.6, 9.7, 9.8, 9.9, 9.10
+• OS concepts 7th edition
+– Chapter 2 except Sections 2.8, 2.9
+– Chapter 3
+– Chapter 4 except Section 4.4
+1
+
+– Chapter 5 except Section 5.7
+– Chapter 6 except Sections 6.8, 6.10
+– Chapter 8 except Sections 8.6, 8.7
+– Chapter 9 except Sections 9.5, 9.6, 9.7, 9.8, 9.9, 9.10
+• The design of the UNIX OS
+– Chapter 1
+– Chapter 2
+– Section 6.1 from Chapter 6
+– Sections 7.1, 7.2, 7.3, 7.4 from Chapter 7
+– Section 8.1 from Chapter 8
+– Chapter 11 except Section 11.1
+
+2
+
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/basd"
+    tools:context="com.example.sameeksha.hackathone.MoreFreatureActivity">
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="160sp"
+        android:background="@android:drawable/toast_frame"
+        android:backgroundTint="#40F1D3"
+        android:text="Tap here to Read Book"
+        android:textSize="35sp"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="58dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="160sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:background="@android:drawable/toast_frame"
+        android:backgroundTint="#9EF140"
+        android:text="tap here for app read to you the book"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="160sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="@android:drawable/toast_frame"
+        android:backgroundTint="#FF8C65"
+        android:text="Tap here for more features"
+        android:textSize="35sp" />
+</RelativeLayout>

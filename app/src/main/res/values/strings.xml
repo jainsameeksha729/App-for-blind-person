@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hackathone</string>
+    <string name="speak">Hackathone</string>
+    <string name="T_text">trans</string>
+    <string name="Translate">translate</string>
+    <string name="Enter_Text">enter text</string>
+    <string name="hand_images">hand image</string>
+</resources>
